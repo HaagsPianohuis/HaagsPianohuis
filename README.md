@@ -5,7 +5,7 @@
 
 • OS Linux Mint
 
-• Template responsive Massively by @ajlkn http://html5up.net
+• Responsive Massively by @ajlkn http://html5up.net
 
 • Language HTML5, CSS3, Javascript
 
