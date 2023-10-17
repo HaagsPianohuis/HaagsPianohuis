@@ -3,7 +3,7 @@
 
 • Hardware Dell  
 • OS Linux Mint  
-• Responsive Massively by @ajlkn http://html5up.net  
+• Pre-Built engine Massively by @ajlkn http://html5up.net  
 • Language HTML5, CSS3, Javascript  
 • Editor VSCodium  
 • DevOps Platform GitHub & GitHub Pages  
